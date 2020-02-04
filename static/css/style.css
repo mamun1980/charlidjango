@@ -60,3 +60,24 @@ body {
 .page-content {
     margin: 20px;
 }
+
+.charli-login {
+    height: 100vh;
+}
+
+.charli__mdl-textfield {
+    text-align: left;
+    width: 100%;
+}
+
+.charli__input,
+.charli__label {
+    padding: 15px 5px;
+    font-size: 18px;
+    width: 100%;
+}
+
+.charli-login-card {
+    width: 100%;
+    /* text-align: center; */
+}
